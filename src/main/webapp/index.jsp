@@ -2,7 +2,7 @@
 <body>
 <<<<<<< HEAD
 <<<<<<< HEAD
-<h2>Hello 1 </h2>
+<h2>Hello Docker </h2>
 =======
 <h2>Hello fro RLL 2.0!</h2>
 >>>>>>> b2
